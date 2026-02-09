@@ -32,5 +32,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            romacarche/newplaneta:latest
+            romcarche/newplaneta:latest
             
