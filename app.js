@@ -7,7 +7,7 @@ const planetas = [
   { id: 2, nombre: 'Venus', orden: 2, tipo: 'Rocoso' },
   { id: 3, nombre: 'Tierra', orden: 3, tipo: 'Rocoso' },
   { id: 4, nombre: 'Marte2', orden: 4, tipo: 'Rocoso' },
-  { id: 4, nombre: 'Jupite2', orden: 4, tipo: 'Gaseoso' }
+  { id: 5, nombre: 'Jupiter2', orden: 5, tipo: 'Gaseoso' }
 ];
 
 app.get('/planetas', (req, res) => {
